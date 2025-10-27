@@ -50,7 +50,9 @@ class _MyHomePageState extends State<MyHomePage> {
 
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
 
-        title: Text("Flights"),
+
+        title: Text("Flights & Customers"),
+
       ),
       body: Center(
 
